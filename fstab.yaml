@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://author-p91503-e1363699.adobeaemcloud.com/bin/franklin.delivery/marijnvermeulenadobe/dvbeds/main
+  /: 
+    url: "https://author-p91503-e1363699.adobeaemcloud.com/bin/franklin.delivery/marijnvermeulenadobe/dvbeds/main"
+    type: "markup"
+    suffix: ".html"
